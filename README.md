@@ -16,7 +16,7 @@
 > Be sure port is available
 
 ```
-$ https://github.com/SantGT5/kubes-client.git
+$ git clone https://github.com/SantGT5/kubes-client.git
 $ cd kubes-client
 $ npm install
 
